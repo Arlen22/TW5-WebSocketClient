@@ -1,0 +1,6 @@
+{
+	"title": "$:/plugins/arlen22/WebSocketClient",
+	"description": "WebSocket Client module",
+	"author": "Arlen22",
+	"core-version": ">=5.1.14"
+}
